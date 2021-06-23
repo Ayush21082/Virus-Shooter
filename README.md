@@ -1,7 +1,8 @@
 ## ** WWDC21 Swift Student Challenge Winner! - Virus Shooter [Accepted]**
 
 # Virus-Shooter
-In order to let you get familiar with the game quickly, I gave you information about game. After tapping the `Run My Code` button, move your iPad around and fix the score node by shooting a bullet. Once done, a crosshair will show up in the center of the screen. Then, please use the front sight (also in the center of screen) to aim the Viruses, and tap the screen to shoot them!
+In order to let you get familiar with the game quickly, 
+I gave you information about game. After tapping the `Run My Code` button, move your iPad around and fix the score node by shooting a bullet. Once done, a crosshair will show up in the center of the screen. Then, please use the front sight (also in the center of screen) to aim the Viruses, and tap the screen to shoot them!
 
 ## Technologies I used
 `Swift` `Augmented Reality` 
