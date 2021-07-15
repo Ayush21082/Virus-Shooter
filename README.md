@@ -19,7 +19,7 @@ I gave you information about game. After tapping the `Run My Code` button, move 
 ## Support
 
 <!-- [![IMAGE ALT TEXT HERE](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-1.svg)](https://www.buymeacoffee.com/thecodexpose) -->
-<a href="https://www.buymeacoffee.com/thecodexpose"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-1.svg" width="200"/></a>
+<a href="https://www.buymeacoffee.com/codexpose"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-1.svg" width="200"/></a>
 
 You can support by buying a coffee ☕️ [here](https://www.buymeacoffee.com/codexpose)
 
