@@ -16,6 +16,11 @@ I gave you information about game. After tapping the `Run My Code` button, move 
 ## Project Video
 [![IMAGE ALT TEXT HERE](https://i.pinimg.com/564x/e7/95/9f/e7959fca05b2e40cfcd5e0de9dede6b8.jpg)](https://youtu.be/HUsIX_9uMKU)
 
+ ## How to Contribute 🖋 ##
+ * Run the app - Steps are mentioned above.
+ * If you face issues in any step open a new issue.
+ * To fix issues: Fork this repository, make your changes and make a Pull Request.
+
 ## Support
 
 <!-- [![IMAGE ALT TEXT HERE](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-1.svg)](https://www.buymeacoffee.com/thecodexpose) -->
