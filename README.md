@@ -13,9 +13,6 @@ I gave you information about game. After tapping the `Run My Code` button, move 
  * It is recommended to run the game in a **portrait** mode.
  * It is better to run game in **full screen portrait** mode.
 
-## Project Video
-[![IMAGE ALT TEXT HERE](https://i.pinimg.com/564x/e7/95/9f/e7959fca05b2e40cfcd5e0de9dede6b8.jpg)](https://youtu.be/HUsIX_9uMKU)
-
  ## How to Contribute 🖋 ##
  * Run the app - Steps are mentioned above.
  * If you face issues in any step open a new issue.
